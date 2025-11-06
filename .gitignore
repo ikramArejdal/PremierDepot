@@ -1,0 +1,7 @@
+# Ignorer les fichiers objets et exécutables
+*.o
+*.exe
+
+# Fichiers temporaires
+*~
+*.tmp
